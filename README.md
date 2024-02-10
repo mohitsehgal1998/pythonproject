@@ -1,1 +1,1 @@
-Develop a Python program utilizing web scraping techniques to extract information from various official websites based on a specified pin code. The program should present users with details such as circle rates and development updates for the chosen or nearby areas.
+Python program utilizing web scraping techniques to extract information from various official websites based on a specified pin code. The program should present users with details such as circle rates and development updates for the chosen or nearby areas.
